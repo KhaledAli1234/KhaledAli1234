@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Khaled Ali 👋
+Backend Developer | Node.js | Express & NestJS | MongoDB | Building Scalable Web APIs
 
-<!--
-**KhaledAli1234/KhaledAli1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Studying at Cairo University
+- Passionate about backend development and building scalable, clean APIs
+- Experienced in Node.js, NestJS, Express, GraphQL, Socket.io, JWT, and MongoDB
 
-Here are some ideas to get you started:
+## Projects
+- [Social Media App (Backend)](https://github.com/KhaledAli1234/Social_App)
+  - Backend system built with Express & MongoDB
+  - Features: JWT auth, profiles, posts, comments, likes, follow/unfollow system
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [E-Commerce Backend (NestJS)](https://github.com/KhaledAli1234/Ecommerce-Nest)
+  - E-Commerce API built with NestJS, MongoDB, GraphQL & Socket.io
+  - Features: Product management, cart, orders, role-based auth, real-time notifications
+
+- [Saraha App (Backend)](https://github.com/KhaledAli1234/Sara7a_App)
+  - Anonymous messaging backend built with Express & MongoDB
+  - Features: JWT auth, secure messaging, inbox management
+
+## Tech Stack
+nodejs | nestjs | express | typescript | mongodb | graphql | jwt | rest-api | socket-io | git | github
